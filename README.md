@@ -7,19 +7,17 @@
   <h3>Take the red pill here:pill::stuck_out_tongue_winking_eye:</h3>
 </div>
 <br />
-<div>
+
+<h2><strong><em>About Me:singer:</strong></em></h2>
   
-  <h2><em>About Me:singer:</em></h2>
-  <ul>
-    <li>I am a <strong>Developer</strong> and <strong>Competitive Programmer</strong>:man_technologist:</li>
-    <li>Looking to work on new projects and explore amazing ideas:milky_way::comet:</li>
-    <li>A sophomore in <em>Computer Science Engineering</em> at <strong>NIT Rourkela</strong>:mortar_board:</li>
-    <li>Interested in <strong>Development</strong>, <strong>Competitive Programming</strong> and <strong>Robotics</strong>:star2::zap:</li>
-    <li>I love to sing :microphone: and play the Guitar:guitar:</li>
-    <li>You can reach me at <a href = "abhijit.panda1319@gmail.com">Abhijit Panda</a> :wind_chime::eyeglasses:</li>
-    <li>Fun Fact : <strong><em>Once you entered the world of coding, the maximum utilisation of the English Language in Writing is "Hello World"</em></strong>:performing_arts:</li>
-  </ul>
-</div>
+-    I am a ***Developer*** and ***Competitive Programmer***:man_technologist:
+-    Looking to work on new projects and explore amazing ideas:milky_way::comet:
+-    A sophomore in ***Computer Science Engineering*** at **NIT Rourkela**:mortar_board:
+-    Interested in **Development**, **Competitive Programming** and **Robotics**:star2::zap:
+-    I love to sing :microphone: and play the Guitar:guitar:
+-    You can reach me at **abhijit.panda1319@gmail.com** :wind_chime::eyeglasses:
+-    Fun Fact : ***Once you entered the world of coding, the maximum utilisation of the English Language in Writing is "Hello World"***:performing_arts:
+
 <br />
 <div>
   <h2 align="center">Languages and Tools:</h2>
