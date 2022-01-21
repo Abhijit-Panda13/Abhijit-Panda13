@@ -35,7 +35,7 @@
 <div>
   <h2><strong>My Github Stats</strong> :rocket:</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Abhijit-Panda13&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="Streak Stats">
+    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Abhijit-Panda13&show_icons=true&theme=midnight-purple&hide_border=true" alt="Streak Stats">
   </a>
 
   <a href="https://github.com/anuraghazra/convoychat">
