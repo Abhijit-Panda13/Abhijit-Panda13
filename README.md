@@ -30,13 +30,13 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhijit-Panda13&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <br />
 
-<div>
+<div align="center">
   <h2><strong>My Github Stats</strong> :rocket:</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Abhijit-Panda13&show_icons=true&theme=midnight-purple&hide_border=true" alt="Streak Stats">
   </a>
 
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a align="center" href="https://github.com/anuraghazra/convoychat">
     <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit-Panda13&layout=compact&theme=midnight-purple&hide_border=true" alt="Languages Used">
   </a>
 </div>
