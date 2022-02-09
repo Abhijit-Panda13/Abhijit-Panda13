@@ -25,7 +25,7 @@
 </div>
 <br />
 <div align="center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=Abhijit-Panda13&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats">
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=Abhijit-Panda13&theme=highcontrast&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats">
 </div>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhijit-Panda13&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <br />
@@ -33,7 +33,7 @@
 <div align="center">
   <h2><strong>My Github Stats</strong> :rocket:</h2>
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Abhijit-Panda13&show_icons=true&theme=midnight-purple&hide_border=true" alt="Streak Stats">
+    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Abhijit-Panda13&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" alt="Streak Stats">
   </a>
 
   <a align="center" href="https://github.com/anuraghazra/convoychat">
